@@ -1,0 +1,15 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "The Simple Todo List is a lightweight and user-friendly web application that helps users manage their daily tasks efficiently. Built with HTML, CSS, and JavaScript (ES6), this application allows users to add, display, and remove tasks dynamically.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
